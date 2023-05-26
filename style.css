@@ -1,0 +1,91 @@
+body
+{
+    background: url("bg.jpg");
+    background-size: cover;
+  text-align : center;
+}
+
+canvas
+{
+border: 2px solid black;
+}
+
+#dl
+{
+    float:right;
+    color: rgb(38, 0, 255);
+    background-color : rgb(255,248,220);
+    border: 1.99px solid black;
+}
+
+h1
+{
+    color: rgb(38, 0, 255);
+    position : absolute;
+    left : 476px;
+}
+
+#clear 
+{
+  width : 60px;
+  height : 20px;
+  font-size : 12px;
+  position : absolute;
+  top: 70px;
+  left: 660px;
+  color: rgb(38, 0, 255);
+  font-weight: 700;
+  background-color : rgb(255,248,220);
+  border: 1.99px solid black;
+}
+
+#score
+{
+  width : 60px;
+  height : 20px;
+  font-size : 12px;
+  position : absolute;
+  top: 70px;
+  left: 560px;
+  color: rgb(38, 0, 255);
+  font-weight: 700;
+  background-color : rgb(255,248,220);
+  border: 1.99px solid black;
+}
+
+p1
+{
+color:rgb(38, 0, 255);
+font-weight: 700;
+border: 1.99px solid black;
+width : 200px;
+height : 20px;
+position : absolute;
+top: 120px;
+left: 544px;
+
+}
+
+p2
+{
+color:rgb(38, 0, 255);
+font-weight: 700;
+border: 1.99px solid black;
+width : 200px;
+height : 20px;  position : absolute;
+top: 140px;
+left: 544px;
+}
+
+p3
+{
+color:rgb(38, 0, 255);
+font-weight: 700;
+border: 1.99px solid black;
+width : 200px;
+height : 20px;
+position : absolute;
+top: 160px;
+left: 544px;
+}
+
